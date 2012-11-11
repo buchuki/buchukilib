@@ -1,6 +1,8 @@
+distribute
 py
-py.test
-py.tz
+pytest
+pytz
 ipython
 ipdb
+sphinx
 # lxml
